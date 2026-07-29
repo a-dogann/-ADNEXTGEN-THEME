@@ -1,16 +1,13 @@
 {
   "id": "ad-nextgen",
   "title": "AD-NEXTGEN",
-  "creators": [
-    {
-      "name": "Ahmet"
-    }
-  ],
-  "version": "1.0.0",
-  "minVersion": "1.0.0",
   "description": "Apple Music ve Spotify estetiğini birleştiren, ultra minimalist ve pürüzsüz YouTube Music teması.",
+  "creators": ["a-dogann"],
+  "minVersion": "1.0.0",
   "hasShaders": false,
+  "version": "1.0.0",
   "cover": "cover.png",
   "preview": "cover.png",
   "tags": ["dark", "minimalist", "apple-music", "spotify"]
-}
+  "images": ["images/1.png"]
+  }
