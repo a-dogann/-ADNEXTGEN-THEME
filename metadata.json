@@ -1,7 +1,14 @@
 {
-  "name": "AD-NEXTGEN",
-  "author": "Ahmet",
+  "id": "ad-nextgen",
+  "title": "AD-NEXTGEN",
+  "creators": [
+    {
+      "name": "Ahmet"
+    }
+  ],
   "version": "1.0.0",
+  "minVersion": "1.0.0",
   "description": "Apple Music ve Spotify estetiğini birleştiren, ultra minimalist ve pürüzsüz YouTube Music teması.",
-  "main": "theme.css"
+  "hasShaders": false,
+  "cover": "cover.png"
 }
